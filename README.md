@@ -1,41 +1,27 @@
 # Welcome to Cuvola
 
-<img src="./branding/images/Cuvola_ A Brighter Kitchen Future.png" alt="Cuvola - A Brighter Kitchen Future" />
+<img src="./branding/images/Cuvola_ A Brighter Kitchen Future.png" alt="Cuvola: A Brighter Kitchen Future" width="800">
 
-![Static Badge](https://img.shields.io/badge/Welcome_To-Cuvola-A25E34?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Welcome-Overview-DFA21D?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/All_Documents:-Current_Oct26-28A745?style=for-the-badge)
+**An introduction to the company, its purpose, and the people we're building for.**
 
-<p align="center">
-<img src="./branding/images/Elegant Forest-Green Kitchen Slogan.png" alt="Elegant Forest-Green Kitchen Slogan" length="300" height="200" />
-</p>
+Cuvola (koo-VOH-lah) is a culinary technology venture within GV / [Genoventures](https://genoventures.com/). We build independent products for people who cook, learn, and work in kitchens. Cuvola is the company behind those products, not one giant application, and not an exclusively AI venture.
 
----
-## Table of Documents
-- [Overview](./overview.md) - You are **here**
-- [Our Core](./our_core/) - Explore our core products and concepts
-- - [Our Mission](./our_core/mission.md)
-- - [Our Vision](./our_core/vision.md)
-- - [Cuvola Values](./our_core/values.md)
-- [Product Explorations](./our_core/product_explorations.md) - Discover our independent product concepts
-- [Branding](./branding/) - Learn about our visual identity and branding guidelines
-- - [Imagery & Photography Guidelines](./branding/imagery.md)
-- - [Primary & Secondary Palette](./branding/palette.md)
+> **A new way forward for every kitchen.**
 
----
+## Start here
 
-## Who We Are
+- [Overview](overview.md): Who we are and what we're here to do.
+- **Our core**
+  - [The Found(er)ations](our_core/found%28er%29ations.md): Cassian's story and a note from the founder.
+  - [Mission and vision](our_core/mission.md): Our purpose and long-term ambition.
+  - [Values](our_core/values.md): How we make decisions.
+  - [Audience](our_core/audience.md): Our current focus and longer-term possibilities.
+  - [Product explorations](our_core/product_explorations.md): Independent products and concepts, with status boundaries.
+- **Branding**
+  - [Brand guidelines](branding/guidelines.md): Identity and creative direction.
+  - [Content and voice](branding/content_voice.md): How we write and help.
+  - [Imagery](branding/imagery.md): Mood, composition, and visual references.
+  - [Color palette](branding/palette.md): Approximate colors and their roles.
+  - [Typography](branding/typography.md): Type direction and recommendations.
 
-Cuvola (pronounced *koo-VOH-lah*) is a culinary technology venture within GV / Genoventures.[^1]
-
-[^1]: https://genoventures.com/
-
-We develop independent products for people who cook, learn and work in kitchens. Cuvola is the company, not one giant application and not exclusively an AI company.
-The name is coined, not an Italian translation.
-
-**Venture tagline:**
-> “A new way forward for every kitchen.”
-
-**Mission:**
-To empower culinary professionals and enthusiasts with intuitive, independent tools that enhance creativity, efficiency, and learning in the kitchen.
-
-**Vision:**
-To create a future where every kitchen, from home to professional, is equipped with intelligent, user-friendly tools that make cooking more enjoyable, efficient, and accessible for all.
+*Onboarding document snapshot: October 2026. Product descriptions are not launch announcements; see the status notes in Product Explorations.*

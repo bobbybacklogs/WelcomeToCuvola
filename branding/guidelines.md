@@ -5,9 +5,10 @@
 ## 1. Brand Overview & Core Essence
 
 * **Brand Name:** Cuvola™
-* **Core Tagline:**  
+* **Venture Tagline:** A new way forward for every kitchen.
+* **Supporting Brand Statement:**  
   > *"The technology is the work. The people are the reason."*
-* **Heritage & Spirit:** Italian culinary craft meets purposeful innovation—combining warmth, tradition, rich Tuscan rustic textures, and human-centered hospitality.
+* **Heritage & Spirit:** Italian culinary craft meets purposeful innovation, combining warmth, tradition, rich Tuscan rustic textures, and human-centered hospitality.
 * **Tone & Persona:** Warm, grounded, premium, artisanal, hospitable, innovative yet deeply rooted in classic craftsmanship.
 
 ---
@@ -15,13 +16,16 @@
 ## 2. Logo System & Visual Elements
 
 ### 2.1 Logo Structure
+
+This section describes the draft visual direction. It is not a production specification for clear space, minimum sizes, or approved exports. The dedicated logo document is not yet populated.
+
 The Cuvola identity combines an organic, bespoke monogram mark with a refined, high-contrast serif logotype.
 
 * **Primary Logo:**  
   Emblem on the left (integrated "C" pan, steam, and basil leaves) alongside the **Cuvola** wordmark, accented by a warm terracotta brush stroke underneath.
 * **Logo Mark / Monogram:**  
   A standalone capital **C** cradling:
-  * A warm **copper saute pan**
+  * A warm **copper sauté pan**
   * Two rising curves of **golden steam / flame**
   * Two fresh **olive/basil leaves** emerging from the curve of the C
 * **Lockup Variations:**
@@ -33,54 +37,28 @@ The Cuvola identity combines an organic, bespoke monogram mark with a refined, h
 
 ### 2.2 Brand Elements Breakdown
 * **The Copper Pan:** Symbolizes culinary artistry, heat control, craftsmanship, and the kitchen workspace.
-* **The Dual Steam Tendrils:** Represents transformation, aroma, dynamic energy, and warmth.
-* **The Fresh Leaves (Basil / Olive):** Represents freshness, earthiness, natural ingredients, and Italian culinary lineage.
+* **The Dual Steam Tendrils:** Represent transformation, aroma, dynamic energy, and warmth.
+* **The Fresh Leaves (Basil / Olive):** Represent freshness, earthiness, natural ingredients, and Italian culinary lineage.
 * **The Foundation Curve:** An arched brushstroke anchoring the logotype, evoking a smile, hearth, or table setting.
 * **The Italian Tricolor Accent Bar:** A subtle, clean horizontal tri-color green-white-red bar representing authentic Italian culinary heritage.
 
 ---
 
-## 3. Color Palette & Material Textures
+## 3. Color Palette and Materials
 
-### 3.1 Primary & Secondary Palette
-
-| Swatch Name | Hex Code (Approx.) | Pantone / CMYK Guide | Role / Application |
-| :--- | :--- | :--- | :--- |
-| **Deep Forest Green** | `#1C3B2B` | Heritage Green | Primary dark container, luxury contrast, foliage tones |
-| **Rustic Terracotta** | `#B7472A` | Burnt Sienna / Clay | Primary warm accent, callouts, underline strokes, brand energy |
-| **Golden Olive / Amber**| `#C88C22` | Warm Ochre / Tuscan Sun | Secondary warmth, highlighting, golden hour imagery accents |
-| **Espresso Dark Roast** | `#261C14` | Dark Roast Walnut | Primary typography, deep rustic shadows, textured table bases |
-| **Hand-Hammered Copper**| `#9E5429` | Antique Copper / Bronze | Accent metals, cookware references, emblem pan fill |
-| **Tuscan Sand / Travertine**| `#D8BFA6` | Warm Sandstone | Subdued backgrounds, card fills, subtle borderlines |
-| **Warm Mascarpone / Cream**| `#FBF6EB` | Italian Cream | Primary light background, clean negative space, light text on dark |
-
-### 3.2 Material & Texture Pairing
-* **Polished Copper & Brass:** Kitchen tools, badges, metallic foil print finishes.
-* **Aged Italian Walnut / Olive Wood:** Board backgrounds, rustic table settings, authentic kitchen staging.
-* **Chiseled Travertine / Stucco:** Matte paper textures, neutral tactile backdrops.
-* **Glossy Cold-Pressed Olive Oil & Fresh Produce:** Dynamic reflections and rich natural saturation in creative assets.
+See the [color palette](palette.md) for approximate hex values, descriptive color references, applications, and material pairings. Descriptive names are not Pantone or CMYK specifications.
 
 ---
 
 ## 4. Typography
 
-### 4.1 Primary Display / Wordmark (Serif)
-* **Style:** High-contrast Transitional/Didone Serif with organic flared brackets and sharp serifs (e.g., *Ogg, Freight Display, Recoleta, or Playfair Display*).
-* **Usage:** Brand name, headline slogans, editorial titles, awards, and pull quotes.
-* **Characteristics:** Elegance, heritage, warmth, literary weight.
-
-### 4.2 Subtitle / Secondary Typography (Serif / Humanist Sans)
-* **Tagline Typography:** Refined classic serif (e.g., *Baskerville, EB Garamond, or Cormorant Garamond*).
-* **Usage:** Subheaders, tagline lockups (*"The technology is the work. The people are the reason."*).
-
-### 4.3 Body & Functional Copy
-* **Typeface Recommendation:** Clean humanist sans-serif (e.g., *Ideal Sans, Optima, Lato, or Inter*).
-* **Usage:** App interfaces, packaging ingredient decks, body copy, technical instructions, web documentation.
-* **Rule:** Ensure ample line height ($1.5 - 1.6\times$) and high contrast against Tuscan cream or espresso backgrounds.
+See the [typography guidelines](typography.md) for display, supporting, and functional type recommendations. These are creative directions, not finalized font selections.
 
 ---
 
 ## 5. Imagery & Photography Guidelines
+
+See the [imagery guide](imagery.md) for composition, lighting, and styling details.
 
 ### 5.1 Mood & Atmosphere
 * **Golden Hour Lighting:** Low-angle, warm sunlight mimicking late afternoon in the Tuscan hills.
@@ -110,3 +88,5 @@ Cuvola stands at the intersection of artisanal culinary traditions and modern wo
 * **DO:** Keep technology discussions centered on human outcomes (saving time so people can connect).
 * **DON'T:** Use cold, ultra-tech jargon like "synergy," "disruptive automation," or clinical feature dumps.
 * **DON'T:** Over-saturate imagery or copy with generic fast-food or industrial kitchen tropes.
+
+For channel direction, practical examples, and generated-visual boundaries, see [Content Strategy and Voice](content_voice.md).

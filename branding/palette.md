@@ -1,6 +1,6 @@
 # Primary & Secondary Palette
 
-| Swatch Name | Hex Code (Approx.) | Pantone / CMYK Guide | Role / Application |
+| Swatch Name | Hex Code (Approx.) | Descriptive Color Reference | Role / Application |
 | :--- | :--- | :--- | :--- |
 | **Deep Forest Green** | `#1C3B2B` | Heritage Green | Primary dark container, luxury contrast, foliage tones |
 | **Rustic Terracotta** | `#B7472A` | Burnt Sienna / Clay | Primary warm accent, callouts, underline strokes, brand energy |
@@ -16,3 +16,5 @@
 * **Aged Italian Walnut / Olive Wood:** Board backgrounds, rustic table settings, authentic kitchen staging.
 * **Chiseled Travertine / Stucco:** Matte paper textures, neutral tactile backdrops.
 * **Glossy Cold-Pressed Olive Oil & Fresh Produce:** Dynamic reflections and rich natural saturation in creative assets.
+
+These hex values are approximate creative references. The descriptive names are not Pantone matches or CMYK specifications.

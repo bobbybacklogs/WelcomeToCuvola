@@ -1,68 +1,51 @@
 # Product Explorations
 
-Cuvola explores a range of culinary technology products, each designed to enhance the cooking experience, support learning, and provide practical assistance in the kitchen. These explorations are independent, with their own audiences and purposes, and are not necessarily integrated into a single suite. 
+Cuvola explores independent culinary technology products, each with its own audience and purpose. They are not necessarily parts of an integrated suite. The common goal is practical help, useful learning, and a better cooking experience.
 
-Each product is developed with a focus on usability, innovation, and user engagement, ensuring that it meets the specific needs of its target audience.
+Descriptions below explain intended roles. Prototype concepts are not promises of available features, and this evergreen packet deliberately omits working prices.
 
----
+## Capito by Cuvola
 
-## Products and exploration
+Capito is being prototyped as an active-meal cooking assistant: a sous-chef that helps the cook plan, prepare, choose the next action, and adapt when something changes. It considers the meal as a whole, so a delay in one dish can be understood alongside the others.
 
-### Capito by Cuvola
+**Status and boundaries:**
 
-Capito is an AI-powered analytics platform designed to transform raw data into actionable insights. By leveraging advanced machine learning algorithms, it helps businesses identify trends, predict outcomes, and optimize decision-making processes in real time.
+- Capito is a prototype, not a launched, payment-ready, or reliably proven product.
+- Verify live features, availability, pricing, model providers, and entitlements before making public claims.
+- “Persistent” means continuity within the active session. It does not establish continuous recording, camera observation, appliance sensing, verified cross-session memory, or knowledge that a physical action happened simply because time elapsed.
 
-**Notes**:
-> Capito is being prototyped. Do not call it launched, payment-ready or reliably proven. Verify live features, availability, pricing, model providers and entitlements before public claims. This evergreen pack deliberately omits working prices.
->
-> - Capito is still in the prototyping phase and should not be considered a fully launched or production-ready product.
-> - A delay in one dish should be considered alongside the rest of the meal.
-> - “Persistent” means continuity within the active session. It does not establish continuous recording, camera observation, appliance sensing, verified cross-session memory or knowledge that a physical action happened merely because time elapsed.
+## Ricettario by Cuvola
 
----
+Ricettario is an ad-free personal recipe organizer for home cooks, with a warm Italian culinary aesthetic.
 
-### Ricettario by Cuvola
+> A personal recipe box for the recipes you want to cook again, with your own notes, stories, and everyday organizing tools.
 
-ricettario is an ad-free personal culinary CRM and recipe organizer designed for home cooks, crafted with the warm Italian culinary aesthetic inspired by the family branding board.
+## Bello by Cuvola
 
-> Ricettario gives home cooks a personal recipe box for the recipes they want to cook again, with their own notes and stories alongside everyday organizing tools.
+Bello is being prototyped as a personal AI kitchen companion, supporting recipe discovery, meal planning, and step-by-step cooking guidance. Its aim is a more personal, enjoyable experience in the kitchen.
 
----
+**Status:** Prototype, not a fully launched or production-ready product.
 
-### Bello by Cuvola
+## MiseTogether by Cuvola
 
-Bello is your personal AI kitchen companion — part chef, part sous-chef, and always ready to help. From discovering recipes and planning meals to guiding you through cooking step by step, Bello makes every moment in the kitchen easier, more personal, and a lot more fun.
+> Every meal is a team effort.
 
-> [!Note] Bello is still in the prototyping phase and should not be considered a fully launched or production-ready product.
+MiseTogether is a prototype for shared family meal coordination. One person takes the lead and assigns tasks, while everyone can see who's doing what and how the meal is progressing.
 
----
-
-### MiseTogether by Cuvola
-
-MiseTogether — Every meal is a team effort.
-
-MiseTogether is a shared meal coordination app that helps families cook together without the chaos. One person takes the lead, assigns tasks to family members, and keeps everything moving, while everyone can see who's doing what and how the meal is coming along.
-
-From everyday dinners to big holiday feasts, MiseTogether makes it easy to divide responsibilities, tackle tasks together, track progress, and bring the whole meal to the table—without one person having to manage everything in their head.
+The idea is to support everyday dinners and bigger gatherings without one person having to keep every responsibility in their head.
 
 Less confusion. More teamwork. Better meals together.
 
-> [!Note] MiseTogether is still in the prototyping phase and should not be considered a fully launched or production-ready product.
-
----
-
-### Other Explorations
+**Status:** Prototype, not a fully launched or production-ready product.
 
 ## Beginner Cooking Academy: independent concept
 
-An unnamed, standalone learning concept for beginners who feel lost and want confidence, practical understanding and an enjoyable teacher-led experience. It is not a Capito mode or a committed build.
+An unnamed, standalone learning concept for beginners who feel lost and want practical understanding, confidence, and an enjoyable teacher-led experience. It is not a Capito mode or a committed build.
 
-Its approved concept tagline is “Good food. Real skills. A damn good time.” This is not Cuvola’s venture tagline.
+Its approved concept tagline is **“Good food. Real skills. A damn good time.”** This is not Cuvola's venture tagline.
 
----
+## Other possibilities
 
-### Other exploration
+Culinary games, simulations, family learning, and professional tools remain independent possibilities, not a committed roadmap, an integrated suite, or a simultaneous launch plan.
 
-Culinary games, simulations, family learning and professional tools are independent possibilities, not a committed roadmap, integrated suite or simultaneous launch plan.
-
-Each will be evaluated on its own merits, market fit, and strategic alignment before any development commitment is made.
+Each should be evaluated on its own merits, market fit, and alignment with Cuvola before development is committed.

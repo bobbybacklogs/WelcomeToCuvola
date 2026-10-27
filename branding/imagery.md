@@ -1,9 +1,9 @@
 # Imagery & Photography Guidelines
 
 > [!NOTE]
-> Actual imagery can be references here:
+> See the existing visual references:
 >
-> - [Images](./branding/images)
+> - [Images](./images/)
 
 ## 1. Mood & Atmosphere
 
@@ -16,21 +16,21 @@
   - Plated artisanal pasta in hammered copper cookware.
 - **Environmental Context:** Sun-drenched villas, cypress-lined rolling hills, terracotta rooflines, and shared family-style tables.
 
-### 2. Composition & Framing
+## 2. Composition & Framing
 
 - **Rule of Thirds:** Position key elements along the grid lines to create balanced and visually appealing compositions.
 - **Leading Lines:** Use natural lines in the environment (e.g., table edges, pergola beams) to guide the viewer's eye toward the subject.
 - **Depth & Layers:** Incorporate foreground, midground, and background elements to add depth and context to the scene.
 - **Negative Space:** Allow breathing room around the subject to emphasize its importance and create a sense of elegance.
 
-### 3. Color & Lighting
+## 3. Color & Lighting
 
 - **Warm, Natural Tones:** Favor earthy, sunlit colors that evoke the Tuscan landscape and artisanal kitchen settings.
 - **Consistent White Balance:** Maintain a warm, inviting color temperature across all imagery to reinforce brand identity.
 - **Soft Shadows:** Use diffused lighting to create gentle shadows that add depth without harsh contrasts.
 - **Highlight Textures:** Emphasize the tactile qualities of ingredients, cookware, and surfaces to enhance sensory appeal.
 
-### 4. Subject Matter & Styling
+## 4. Subject Matter & Styling
 
 - **Culinary Craftsmanship:** Focus on the skill and artistry involved in food preparation, from chopping and mixing to plating.
 - **Authentic Ingredients:** Showcase fresh, high-quality ingredients in their natural state, highlighting their colors and textures.
