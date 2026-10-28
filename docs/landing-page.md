@@ -10,7 +10,9 @@ Production: https://bycuvola.com
 Vercel URL: https://bycuvola.vercel.app
 Initial deployment: `dpl_Gzm38WGw2t5K8Quru61seRpZwAbd`
 
-The initial deployment uploaded only the files inside `site/` through the Vercel connector. Git auto-deployment is not connected. For subsequent CLI deployment from the repository root, link to the existing bycuvola project in the Cuvola team, then use `vercel --prod`; root `vercel.json` sets the output to `site/`. Never deploy the internal brand documents as web content. Alternatively, connect this GitHub repository to the existing project from Vercel's Git settings; use no framework, no build command, and `site` as output directory.
+GitHub auto-deployment is connected to `bobbybacklogs/WelcomeToCuvola`. Pushes to the production branch `main` automatically build and publish to `bycuvola.com`; other branches receive preview deployments. Vercel uses no framework, an empty build command, and `site` as the output directory, also declared in root `vercel.json`. Only the static site output is published. The first deployment was uploaded through the connector; subsequent deployments use the Git integration.
+
+Local preview: edit `site/`, run the preview command above, then commit and push to `main`. Check the deployment status in https://vercel.com/cuvola/bycuvola/deployments .
 
 DataFast's supplied script is in `site/index.html` head with website ID `dfid_zEE6lTGhj6PwnyCFSd2cP` and domain `bycuvola.com`. Browser markup was verified; dashboard event receipt was not inspected.
 
